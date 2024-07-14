@@ -1,0 +1,2 @@
+# moji
+Rofi emoji picker
